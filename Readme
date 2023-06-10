@@ -1,6 +1,7 @@
 ## Sudoku_solver
 
-
+## You need to install numpy which use for a matrix is a specialized 2-D array that retains its 2-D nature through operations. It has certain special operators, such as * (matrix multiplication) and ** (matrix power).
+## And pyautogui which can use  used to click, drag, scroll, move, etc. It can be used to click at an exact position.
 
 ### This application has two methods of solving this game: 
 # The first would be reading the numbers from the lists in another list and displaying the final result in another list in the terminal. 
