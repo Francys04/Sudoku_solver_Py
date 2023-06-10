@@ -93,6 +93,8 @@ def solve():
                         grid[y][x] = 0
                 return
     Print(grid)
+    
+print("The programm finish to solve")
 
     
 solve()
